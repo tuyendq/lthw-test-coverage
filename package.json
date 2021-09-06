@@ -1,0 +1,23 @@
+{
+  "name": "lthw-test-coverage",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tuyendq/lthw-test-coverage.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tuyendq/lthw-test-coverage/issues"
+  },
+  "homepage": "https://github.com/tuyendq/lthw-test-coverage#readme",
+  "devDependencies": {
+    "jest": "^27.1.0"
+  }
+}
